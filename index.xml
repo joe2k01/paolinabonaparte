@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paolina Bonaparte</title>
+    <link>https://joe2k01.github.io/paolinabonaparte/</link>
+    <description>Recent content on Paolina Bonaparte</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-it</language>
+    
+	<atom:link href="https://joe2k01.github.io/paolinabonaparte/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
